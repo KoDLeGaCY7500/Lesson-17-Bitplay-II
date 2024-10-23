@@ -9,3 +9,4 @@ num2=int(input("Enter the second number: "))
 
 check(num1,num2)
 
+
